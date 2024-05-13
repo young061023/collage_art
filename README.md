@@ -8,3 +8,6 @@ You can create mosaic pictures with the collage technique.
 <br/>
 <p align="center"><img width="250" alt="crow1" src="https://github.com/young061023/collage_art/assets/116246341/fc3c52e2-4b77-4ec9-a6e7-4c0b8b5a6e16">
 <img width="250" alt="corw" src="https://github.com/young061023/collage_art/assets/116246341/016b18b4-d1d3-4903-9388-2a0bd4fe07d5"></p>
+
+## Installation
+
