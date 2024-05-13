@@ -43,3 +43,7 @@ pip install pillow
 
 #### Result
 The script will output a final processed image (final.jpg) after completing the image processing pipeline.
+
+## process
+
+
