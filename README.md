@@ -9,21 +9,9 @@ You can create mosaic pictures with the collage technique.
 <p align="center"><img width="300" alt="crow1" src="https://github.com/young061023/collage_art/assets/116246341/fc3c52e2-4b77-4ec9-a6e7-4c0b8b5a6e16">
 <img width="300" alt="corw" src="https://github.com/young061023/collage_art/assets/116246341/016b18b4-d1d3-4903-9388-2a0bd4fe07d5"></p>
 
-## Installation
+## Overview
+The script performs the following operations:
 
-PIL (Pillow)
-```
-pip install pillow
-```
-
-## How to use
-
-```
-collage_art/
-├── main.py
-└── img.png
-```
-
-```
-input_image_path = 'img.png'
-```
+1. Generate Image Grid
+  - Takes an input image and creates a 2x2 grid using different transformations (mirroring and rotation).
+  - Saves the resulting grid as a new image.
