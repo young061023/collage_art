@@ -45,5 +45,9 @@ pip install pillow
 The script will output a final processed image (final.jpg) after completing the image processing pipeline.
 
 ## process
-
+<img width="180" alt="a" src="https://github.com/young061023/collage_art/assets/116246341/87c22e60-9336-477d-ab58-19bdcb3ff8bb">
+<img width="180" alt="c" src="https://github.com/young061023/collage_art/assets/116246341/0072b0a2-32c7-44ab-98f5-bf49a97cd205">
+<img width="180" alt="d" src="https://github.com/young061023/collage_art/assets/116246341/17544cf4-60a5-4bcb-ae50-47eccd3326ae">
+<img width="180" alt="e" src="https://github.com/young061023/collage_art/assets/116246341/2ef437f1-1ce6-4d8f-9433-34374e1120c3">
+<img width="180" alt="b" src="https://github.com/young061023/collage_art/assets/116246341/96d27262-4e0b-4233-befa-0405db7ff5c0">
 
