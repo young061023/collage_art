@@ -50,4 +50,10 @@ The script will output a final processed image (final.jpg) after completing the 
 <img width="180" alt="d" src="https://github.com/young061023/collage_art/assets/116246341/17544cf4-60a5-4bcb-ae50-47eccd3326ae">
 <img width="180" alt="e" src="https://github.com/young061023/collage_art/assets/116246341/2ef437f1-1ce6-4d8f-9433-34374e1120c3">
 <img width="180" alt="b" src="https://github.com/young061023/collage_art/assets/116246341/96d27262-4e0b-4233-befa-0405db7ff5c0">
+<br/>
+<img width="180" alt="스크린샷 2024-05-13 오후 8 37 06" src="https://github.com/young061023/collage_art/assets/116246341/2df62fd5-7bed-41ff-97a9-45cdbb1d6669">
+<img width="180" alt="스크린샷 2024-05-13 오후 8 37 11" src="https://github.com/young061023/collage_art/assets/116246341/d43d27c6-198c-42e9-880c-14772f2e351c">
+<img width="180" alt="스크린샷 2024-05-13 오후 8 37 17" src="https://github.com/young061023/collage_art/assets/116246341/b1bd0d2d-e08b-4bc5-b5a2-aaa837689de8">
+<img width="180" alt="스크린샷 2024-05-13 오후 8 37 23" src="https://github.com/young061023/collage_art/assets/116246341/2d61193d-7c81-41aa-821b-88795d092528">
+<img width="180" alt="스크린샷 2024-05-13 오후 8 37 29" src="https://github.com/young061023/collage_art/assets/116246341/503c1b22-377d-47f6-b067-0ba77965ed9e">
 
