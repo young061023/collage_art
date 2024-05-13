@@ -26,3 +26,11 @@ The script performs the following operations:
 
 #### 4. Crop Image
   - Cut the final mosaic image so that only one picture comes out.
+
+## Usage
+
+#### Installation
+```
+pip install pillow
+```
+
