@@ -23,3 +23,6 @@ The script performs the following operations:
 #### 3. Cut and Stack Images (Part. 2)
   - Cut out the photo made vertically at 2 by the specified n.
   - If you stack the cut-out pictures alternately as shown in 2, you create an image like the final mosaic.
+
+#### 4. Crop Image
+  - Crops the final mosaic image to focus on the central portion.
