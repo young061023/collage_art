@@ -12,6 +12,6 @@ You can create mosaic pictures with the collage technique.
 ## Overview
 The script performs the following operations:
 
-1. Generate Image Grid
+#### 1. Generate Image Grid
   - Takes an input image and creates a 2x2 grid using different transformations (mirroring and rotation).
   - Saves the resulting grid as a new image.
