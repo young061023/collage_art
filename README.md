@@ -11,6 +11,7 @@ You can create mosaic pictures with the collage technique.
 
 ## Installation
 
+PIL (Pillow)
 ```
 pip install pillow
 ```
