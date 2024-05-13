@@ -33,4 +33,10 @@ The script performs the following operations:
 ```
 pip install pillow
 ```
+#### Parameters
 
+input_image_path: The path of the input image file.
+output_image_path: The path to store the generated image.
+level1_image_path, level2_image_path, level3_image_path: the path to store the intermediate image.
+final_image_path: The path to save the final cropped image.
+num_slice: the number of slices used to segment a picture.
