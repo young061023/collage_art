@@ -15,3 +15,7 @@ The script performs the following operations:
 #### 1. Generate Image Grid
   - Takes an input image and creates a 2x2 grid using different transformations (mirroring and rotation).
   - Saves the resulting grid as a new image.
+
+#### 2. Cut and Stack Images
+  - Take the generated image grid and slice it horizontally with the specified number of n.
+  - 1, n, 2, n-2, 3, n-3... Arrange them in order.
