@@ -25,4 +25,4 @@ The script performs the following operations:
   - If you stack the cut-out pictures alternately as shown in 2, you create an image like the final mosaic.
 
 #### 4. Crop Image
-  - Crops the final mosaic image to focus on the central portion.
+  - Cut the final mosaic image so that only one picture comes out.
