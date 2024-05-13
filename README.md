@@ -15,3 +15,15 @@ PIL (Pillow)
 ```
 pip install pillow
 ```
+
+## How to use
+
+```
+collage_art/
+├── main.py
+└── img.png
+```
+
+```
+input_image_path = 'img.png'
+```
